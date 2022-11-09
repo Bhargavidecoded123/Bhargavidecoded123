@@ -1,7 +1,6 @@
-Hi 👋 My name is SAIKAT SAMANTA
+Hi 👋 My name is BHARGAVI PISSAY
 ===============================
-
-Full stack web developer
+Associate software developer
 ------------------------
 
 I've been coding for more than 3 years, learning different stacks having a taste towards both software and hardware. I have powered myself with frontend, backend and knowledge of IoT
