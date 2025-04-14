@@ -1,26 +1,45 @@
-# Hi there 
+# Bhargavi Pissay
 
-I'm a Business Analytics professional with a Master's degree and 3+ years of experience solving real-world problems using data. I specialize in building machine learning solutions with Python, SQL, and Spark—translating complex data into clear, actionable insights.
-
-My work combines technical depth with business impact, focusing on model interpretability, high-recall optimization, and scalable data pipelines. I'm passionate about bridging the gap between data science and decision-making.
+Hi there, I'm currently pursuing my Master's in Business Analytics at the University of Minnesota - Carlson School of Management and graduating in August 2025. With a background in software development and hands-on experience in data science, I’m passionate about working with data to uncover insights, solve real-world problems, and support strategic decision-making.
 
 ---
 
-## 🔧 Tools & Technologies
-- Programming: Python, SQL, R
-- ML/Analytics: scikit-learn, Spark MLlib, pandas, NumPy
-- Visualization: matplotlib, seaborn, Power BI
-- Workflow: Git, Jupyter, VS Code
+## A Little About Me
+
+Over the past few years, I’ve built a strong foundation in analytics, combining technical skills with a business-first mindset. Whether it's wrangling large datasets, building predictive models, or creating dashboards that tell a clear story, I enjoy digging into the details and connecting them to the bigger picture.
+
+Previously, I worked as a Software Engineer and also contributed to real-world analytics projects during my time at Carlson. I value collaboration, curiosity, and continuous learning—especially in fast-paced, data-driven environments.
 
 ---
 
-## 📌 Current Focus
-- Cost-sensitive modeling & evaluation
-- Scalable ML workflows with Spark
-- Communicating insights that drive business value
+## Skills & Tools
 
-Let’s connect, collaborate, and build data-driven solutions!
-<a href="http://www.github.com/saikat-glitch"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saikat-glitch&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+**Languages & Tools:** Python, SQL, R, Java  
+**Analytics & Modeling:** Regression, Classification, Time Series, Cross-Validation, Scikit-learn, Statsmodels  
+**Visualization:** Tableau, Power BI, Seaborn, Matplotlib  
+**Big Data & Cloud:** Apache Spark, Hive, Databricks, AWS (SageMaker, S3)  
+**Other Tools:** Excel, Git, Jupyter, Streamlit, VS Code  
 
-<a href="https://github.com/saikat-glitch" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikat-glitch&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
+
+## Open to Opportunities
+
+I'm looking for roles where I can:
+
+- Analyze data to uncover actionable insights  
+- Collaborate with cross-functional teams  
+- Build models or dashboards that support decision-making  
+- Grow in a role that challenges me to think analytically and strategically  
+
+I’m always open to opportunities where I can put my analytical skills to good use—especially roles that blend data, problem-solving, and business impact.
+
+---
+
+## Let’s Connect
+
+Feel free to reach out if you'd like to connect or learn more about my work:
+
+- [LinkedIn](https://www.linkedin.com/in/bhargavi-pissay)  
+- [Email](mailto:bhargavi.pissay@example.com)
+
 
